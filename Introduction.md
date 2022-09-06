@@ -1,6 +1,6 @@
 <a href="/Home.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Introduction.md">Next &gt;</a>
+<a href="/Get-Started.md">Next &gt;</a>
 <hr>
 <h1>What is C++?</h1>
 C++ is a cross-platform language that can be used to create high-performance applications.
