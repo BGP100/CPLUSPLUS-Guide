@@ -1,6 +1,6 @@
-<a href="/Get-Started.md">&lt; Previous</a>
+<a href="/Syntax.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Output/Print-Text.md">Next &gt;</a>
+<a href="/Output/New-Lines.md">Next &gt;</a>
 <hr>
 The cout object, together with the <code>&lt;&lt;</code> operator, is used to output values/print text:
 <pre>
