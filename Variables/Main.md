@@ -1,3 +1,7 @@
+<a href="/Comments.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/Variables/Multiple.md">Next &gt;</a>
+<hr>
 Variables are containers for storing data values.
 <br>
 In C++, there are different types of variables (defined with different keywords), for example:
