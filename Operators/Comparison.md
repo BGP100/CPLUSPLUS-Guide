@@ -3,7 +3,7 @@
 <a href="/Operators/Logical.md">Next &gt;</a>
 <hr>
 A list of all comparison operators:
-<table class="ws-table-all notranslate">
+<table>
   <tr>
     <th>Operator</th>
     <th>Name</th>
