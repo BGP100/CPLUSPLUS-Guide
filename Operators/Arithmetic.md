@@ -1,4 +1,4 @@
-<a href="/Data-Types/strings.md">&lt; Previous</a>
+<a href="/Data-Types/Strings.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/Operators/Assignment.md">Next &gt;</a>
 <hr>
