@@ -1,6 +1,6 @@
-<a href="/Variables/Multiple.md">&lt; Previous</a>
+<a href="/Variables/Identifiers.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Variables/Constants.md">Next &gt;</a>
+<a href="/User-Input.md">Next &gt;</a>
 <hr>
 When you do not want others (or yourself) to override existing variable values, use the const keyword (this will declare the variable as "constant", which means unchangeable and read-only):
 <pre>
