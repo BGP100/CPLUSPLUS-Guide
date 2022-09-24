@@ -1,6 +1,6 @@
-<a href="/Data-Types/Booleans">&lt; Previous</a>
+<a href="/Data-Types/Booleans.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Data-Types/Strings">Next &gt;</a>
+<a href="/Data-Types/Strings.md">Next &gt;</a>
 <hr>
 The char data type is used to store a single character. The character must be surrounded by single quotes, like 'A' or 'c':
 <pre>
