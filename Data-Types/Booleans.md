@@ -8,6 +8,6 @@ When the value is returned, true = 1 and false = 0.
 <pre>
 bool isCodingFun = true;
 bool isFishTasty = false;
-cout << isCodingFun;  // Outputs 1 (true)
-cout << isFishTasty;  // Outputs 0 (false)
+cout &lt;&lt; isCodingFun; // Outputs 1 (true)
+cout &lt;&lt; isFishTasty; // Outputs 0 (false)
 </pre>
