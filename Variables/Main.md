@@ -12,7 +12,7 @@ In C++, there are different types of variables (defined with different keywords)
   <li><code>string</code> - stores text, such as "Hello World". String values are surrounded by double quotes</li>
   <li><code>bool</code> - stores values with two states: true or false</li>
 </ul>
-<h1>Declaring (Creating) Variables</h1>
+<h1>Declaring Variables</h1>
 To create a variable, specify the type and assign it a value:
 <pre>type variableName = value;</pre>
 Where type is one of C++ types (such as int), and variableName is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable.
