@@ -1,6 +1,6 @@
-<a href="/Operators/Logical.md">&lt; Previous</a>
+<a href="/Strings/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Strings/Concatenation.md">Next &gt;</a>
+<a href="/Strings/NumbersAndStrings.md">Next &gt;</a>
 <hr>
 The <code>+</code> operator can be used between strings to add them together to make a new string. This is called concatenation:
 <pre>
