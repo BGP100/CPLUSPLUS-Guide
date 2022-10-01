@@ -1,6 +1,6 @@
-<a href="/Arrays/Get-Size.md">&lt; Previous</a>
+<a href="/Arrays/Multidimensional.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Structures.md">Next &gt;</a>
+<a href="/References.md">Next &gt;</a>
 <hr>
 Structures (also called structs) are a way to group several related variables into one place. Each variable in the structure is known as a member of the structure.
 <br>
