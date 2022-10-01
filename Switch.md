@@ -1,6 +1,6 @@
-<a href="/Conditions/Else-if.md">&lt; Previous</a>
+<a href="/Conditions/Shorthand-if-else.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Switch.md">Next &gt;</a>
+<a href="/While-Loop.md">Next &gt;</a>
 <hr>
 Use the switch statement to select one of many code blocks to be executed.
 <pre>
