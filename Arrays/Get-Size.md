@@ -20,4 +20,5 @@ To find out how many elements an array has, you have to divide the size of the a
 int myNumbers[5] = {10, 20, 30, 40, 50};
 int getArrayLength = sizeof(myNumbers) / sizeof(int);
 cout &lt;&lt; getArrayLength;
+</pre>
 Result: <code>5</code>
