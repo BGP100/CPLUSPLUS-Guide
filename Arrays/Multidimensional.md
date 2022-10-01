@@ -1,6 +1,6 @@
-<a href="/Arrays/Omit-Size.md">&lt; Previous</a>
+<a href="/Arrays/Get-Size.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Arrays/Multidimensional.md">Next &gt;</a>
+<a href="/Structures.md">Next &gt;</a>
 <hr>
 A multi-dimensional array is an array of arrays.
 <br>
