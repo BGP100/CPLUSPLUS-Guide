@@ -1,6 +1,6 @@
-<a href="/Arrays/Main.md">&lt; Previous</a>
+<a href="/Arrays/Loops.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Arrays/Omit-Size.md">Next &gt;</a>
+<a href="/Arrays/Get-Size.md">Next &gt;</a>
 <hr>
 You don't have to specify the size of the array. But if you don't, it will only be as big as the elements that are inserted into it:
 <pre>string cars[] = {"Volvo", "BMW", "Ford"}; // size of array is always 3</pre>
