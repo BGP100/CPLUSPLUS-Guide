@@ -4,7 +4,7 @@
 <hr>
 In the examples from the previous page, we used normal variables when we passed parameters to a function. You can also pass a reference to the function. This can be useful when you need to change the value of the arguments:
 <pre>
-void swapNums(int &x, int &y) {
+void swapNums(int &amp;x, int &amp;y) {
   int z = x;
   x = y;
   y = z;
