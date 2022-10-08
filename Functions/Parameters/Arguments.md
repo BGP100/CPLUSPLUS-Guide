@@ -1,6 +1,6 @@
 <a href="/Functions/Main.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Functions/Parameters/Arguments.md">Next &gt;</a>
+<a href="/Functions/Parameters/Default.md">Next &gt;</a>
 <hr>
 Information can be passed to functions as a parameter. Parameters act as variables inside the function.
 <br>
