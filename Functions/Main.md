@@ -1,6 +1,6 @@
 <a href="/Pointers/Modify.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Functions/Parameters.md">Next &gt;</a>
+<a href="/Functions/Parameters/Arguments.md">Next &gt;</a>
 <hr>
 A function is a block of code which only runs when it is called.
 <br>
