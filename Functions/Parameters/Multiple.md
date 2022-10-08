@@ -1,6 +1,6 @@
-<a href="/Functions/Parameters/Arguments.md">&lt; Previous</a>
+<a href="/Functions/Parameters/Default.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Functions/Parameters/Multiple.md">Next &gt;</a>
+<a href="/Functions/Parameters/Return.md">Next &gt;</a>
 <hr>
 Inside the function, you can add as many parameters as you want:
 <pre>
