@@ -1,6 +1,6 @@
 <a href="/References.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Functions/Main.md">Next &gt;</a>
+<a href="/Pointers/Deferencing.md">Next &gt;</a>
 <hr>
 You learned from the previous chapter, that we can get the memory address of a variable by using the & operator:
 <pre>
