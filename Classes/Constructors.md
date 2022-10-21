@@ -6,9 +6,9 @@ A constructor in C++ is a special method that is automatically called when an ob
 <br>
 To create a constructor, use the same name as the class, followed by parentheses ():
 <pre>
-class MyClass {     // The class
-  public:           // Access specifier
-    MyClass() {     // Constructor
+class MyClass { // The class
+  public:       // Access specifier
+    MyClass() { // Constructor
       cout &lt;&lt; "Hello World!";
     }
 };<br>
