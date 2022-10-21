@@ -64,8 +64,8 @@ int main() {
   Car carObj1("BMW", "X5", 1999);
   Car carObj2("Ford", "Mustang", 1969);<br>
   // Print values
-  cout << carObj1.brand << " " << carObj1.model << " " << carObj1.year << "\n";
-  cout << carObj2.brand << " " << carObj2.model << " " << carObj2.year << "\n";
+  cout &lt;&lt; carObj1.brand &lt;&lt; " " &lt;&lt; carObj1.model &lt;&lt; " " &lt;&lt; carObj1.year &lt;&lt; "\n";
+  cout &lt;&lt; carObj2.brand &lt;&lt; " " &lt;&lt; carObj2.model &lt;&lt; " " &lt;&lt; carObj2.year &lt;&lt; "\n";
   return 0;
 };
 </pre>
