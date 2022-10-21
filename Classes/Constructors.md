@@ -1,6 +1,6 @@
-<a href="/Classes/Objects.md">&lt; Previous</a>
+<a href="/Classes/Methods.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Classes/Constructors.md">Next &gt;</a>
+<a href="/Classes/Specifiers.md">Next &gt;</a>
 <hr>
 A constructor in C++ is a special method that is automatically called when an object of a class is created.
 <br>
