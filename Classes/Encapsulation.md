@@ -1,6 +1,6 @@
 <a href="/Classes/Specifiers.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Classes/Inheritance.md">Next &gt;</a>
+<a href="/Classes/Inheritance/Main.md">Next &gt;</a>
 <hr>
 The meaning of Encapsulation, is to make sure that "sensitive" data is hidden from users. To achieve this, you must declare class variables/attributes as private (cannot be accessed from outside the class). If you want others to read or modify the value of a private member, you can provide public get and set methods.
 <h1>Access Private Members</h1>
@@ -25,7 +25,7 @@ class Employee {
 int main() {
   Employee myObj;
   myObj.setSalary(50000);
-  cout << myObj.getSalary();
+  cout &lt;&lt; myObj.getSalary();
   return 0;
 }
 </pre>
