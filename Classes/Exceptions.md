@@ -1,3 +1,7 @@
+<a href="/Classes/Files.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/Add-Two-Numbers.md">Next &gt;</a>
+<hr>
 When executing C++ code, different errors can occur: coding errors made by the programmer, errors due to wrong input, or other unforeseeable things.
 <br>
 When an error occurs, C++ will normally stop and generate an error message. The technical term for this is: C++ will throw an exception (throw an error).
