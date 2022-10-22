@@ -1,6 +1,6 @@
 <a href="/Classes/Polymorphism.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Classes/Files.md">Next &gt;</a>
+<a href="/Classes/Exceptions.md">Next &gt;</a>
 <hr>
 The fstream library allows us to work with files.
 <br>
