@@ -1,6 +1,6 @@
-<a href="/Classes/Inheritance/Main.md">&lt; Previous</a>
+<a href="/Classes/Inheritance/Multilevel.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Classes/Inheritance/Multiple.md">Next &gt;</a>
+<a href="/Classes/Inheritance/Specifiers.md">Next &gt;</a>
 <hr>
 A class can also be derived from more than one base class, using a comma-separated list:
 <pre>
