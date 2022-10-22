@@ -6,7 +6,7 @@ The meaning of Encapsulation, is to make sure that "sensitive" data is hidden fr
 <h1>Access Private Members</h1>
 To access a private attribute, use public "get" and "set" methods:
 <pre>
-#include <iostream>
+#include &lt;iostream&gt;
 using namespace std;<br>
 class Employee {
   private:
