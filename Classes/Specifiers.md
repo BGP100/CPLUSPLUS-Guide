@@ -37,10 +37,10 @@ int main() {
 If you try to access a private member, an error occurs: <code>error: y is private</code>
 <br>
 <b>Note:</b> It is possible to access private members of a class using a public method inside the same class. See the next chapter (Encapsulation) on how to do this.
-
-Tip: It is considered good practice to declare your class attributes as private (as often as you can). This will reduce the possibility of yourself (or others) to mess up the code. This is also the main ingredient of the Encapsulation concept, which you will learn more about in the next chapter.
-
-Note: By default, all members of a class are private if you don't specify an access specifier:
+<br>
+<b>Tip:</b> It is considered good practice to declare your class attributes as private (as often as you can). This will reduce the possibility of yourself (or others) to mess up the code. This is also the main ingredient of the Encapsulation concept, which you will learn more about in the next chapter.
+<br>
+<b>Note:</b> By default, all members of a class are private if you don't specify an access specifier:
 <pre>
 class MyClass {
   int x; // Private attribute
