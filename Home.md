@@ -1,4 +1,4 @@
-<a href="https://bledy-guide.repl.co">&lt; Previous</a>
+<a href="https://bledy-guide.repl.co/#cpp">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/Introduction.md">Next &gt;</a>
 <hr>
